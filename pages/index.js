@@ -1,5 +1,5 @@
 function Home(){
-    return <h1> Primeira Passo com Git </h1>
+    return <h1> Primeiros Passos com gitGit </h1>
 }
 
 export default Home;
